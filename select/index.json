@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ボイスメモ No. 5",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2026-02-22T15:58:43.703925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボイスメモ No. 5",
+      "artist": "Chanmina",
+      "has_synced": true,
+      "path": "select/01_ボイスメモ_No._5_Chanmina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ボイスメモ No. 5 - Voice Memo No. 5",
+      "artist": "CHANMINA",
+      "has_synced": true,
+      "path": "select/02_ボイスメモ_No._5_-_Voice_Memo_No._5_CHANMINA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ボイスメモ No. 5 - Voice Memo No. 5",
+      "artist": "CHANMINA",
+      "has_synced": true,
+      "path": "select/03_ボイスメモ_No._5_-_Voice_Memo_No._5_CHANMINA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボイスメモNo.5",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_ボイスメモNo.5_ちゃんみな.txt"
+    }
+  ]
+}
